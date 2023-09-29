@@ -1,0 +1,220 @@
+rowid,name,image,availability,capability,mobile-no
+1,Karthik chilumula,../static/1.jpg,Very much,BATSMAN,8523031550
+2,Dasari Srinu ,../static/2.jpg,Very much,BATSMAN,9542145781
+3,Prasad Teja,../static/3.jpg,Very much,BATSMAN,9493137607
+4,Satyanarayana Nadiminti ,../static/4.jpg,Partial,BATSMAN,6301677518
+5,Rajat Seth ,../static/5.jpg,Very much,BATSMAN,7301004892
+6,Upendra Bharati ,../static/6.jpg,Very much,BATSMAN,8090491767
+7,Ashish Kumar Singh ,../static/7.jpg,Very much,BATSMAN,9949690022
+8,Shivaramakrishna,../static/8.jpg,Very much,BATSMAN,8919395250
+9,Saurabh ,../static/9.jpg,Very much,BATSMAN,7981619988
+10,Manikanta Bondada ,../static/10.jpg,Very much,BATSMAN,7013608758
+11,Mohsin Faurkh,../static/11.jpg,Very much,BATSMAN,6005852314
+12,Dayanand K,../static/12.jpg,Very much,BATSMAN,9989273528
+13,Rajesh Thalla,../static/13.jpg,Very much,BATSMAN,8367538610
+14,MD Mudabbir Quamar,../static/14.jpg,Very much,BATSMAN,9504584745
+15,K.RAM BHUVAN TEJA ,../static/15.jpg,Very much,BATSMAN,9121556653
+16,Rahul singh,../static/16.jpg,Very much,BATSMAN,9009803639
+17,Rishi ballarapu ,../static/17.jpg,BATSMAN, 17IPMH13,8317679044
+18,JWALA PRASAD KASHYAP ,../static/18.jpg,Very much,BATSMAN,7999612953
+19,SUBHASH ,../static/19.jpg,Very much,BATSMAN,9949131961
+20,Aman Kumar,../static/20.jpg,Very much,BATSMAN,7572088317
+21,Khalid Anwar,../static/21.jpg,Partial,BATSMAN,9160110904
+22,Deshavath Preetham Chowhan,../static/22.jpg,Very much,BATSMAN,9502237797
+23,Hemsingh Makwana ,../static/23.jpg,Partial,BATSMAN,8602628939
+24,Ankit Kumar Singh,../static/24.jpg,Partial,BATSMAN,8375049058
+25,Saran Ravipati ,../static/25.jpg,Very much,BATSMAN,9182929222
+26,SONTAKE YOGESH,../static/26.jpg,Partial,BATSMAN,9490213146
+27,laxman samala,../static/27.jpg,Very much,BATSMAN,9542949273
+28,Nitish Bhardwaj,../static/28.jpg,Available in weekends ,BATSMAN,7370025057
+29,K Bhanu Chandar,../static/29.jpg,Partial,BATSMAN,6304245204
+30,K CHANDRA SHEKAR,../static/30.jpg,Partial,BATSMAN,7702688061
+31,Praveen nayak,../static/31.jpg,Very much,BATSMAN,8374673439
+32,GAYAM NAGARJUNA,../static/32.jpg,Very much,BATSMAN,6303534496
+33,K.Ramesh,../static/33.jpg,Very much,BATSMAN,6300700341
+34,KATARE PREMSINGH ,../static/34.jpg,Very much,BATSMAN,8374507154
+35,Ranjith Kumar ,../static/35.jpg,Very much,BATSMAN,8374437317
+36,M Praveen Kumar,../static/36.jpg,Very much,BATSMAN,8125516113
+37,Mahesh (BMT),../static/37.jpg,Very much,BATSMAN,7989359538
+38,Girish Pawar,../static/1111.jpg,Very much,BATSMAN,9030904984
+39,Vinod Kumar ,../static/39.jpg,Please choose me at your own risk. I may not be available for majority of the matches.,BATSMAN,8801534577
+40,Srikanth Veerabathini,../static/40.jpg,Very much,BATSMAN,8008315670
+41,Kalla Chandrasekhar ,../static/41.jpg,Very much,BATSMAN,7671815425
+42,Lalu Pal,../static/42.jpg,Very much,BATSMAN,6265746111
+43,Muhammed Nihal,../static/43.jpg,Very much,BATSMAN,9497765069
+44,Swardi  debendra,../static/44.jpg,Very much,BATSMAN,9337083480
+45,Muhammed shareef,../static/45.jpg,Partial,BATSMAN,8921096415
+46,Mahesh medipalli,../static/46.jpg,Very much,BATSMAN,6304112980
+47,Jagan Maddela,../static/47.jpg,Very much,BATSMAN,9493331719
+48,JAGPAL JAGRIT ,../static/48.jpg,Available only for September month,BATSMAN,9660049383
+49,T VIJAY,../static/49.jpg,Very much,BATSMAN,7569382278
+50,THALARI RAJENDER ,../static/50.jpg,Very much,BATSMAN,9573669297
+51,V vineeth kumar,../static/51.jpg,Very much,BATSMAN,8712167518
+52,KRANTHI V,../static/52.jpg,Partial,BATSMAN,6303513483
+53,Rahul Yadav,../static/53.jpg,Very much,BATSMAN,8978824840
+54,Atul Prathap,../static/54.jpg,Very much,BATTING All rounder,9504147762
+55,M.PAVAN KUMAR ,../static/55.jpg,Very much,BATTING ALL ROUNDER,9346345988
+56,vivek raut,../static/56.jpg,very much,BATTING All Rounder ,9334356788
+57,Sandeep Rao Madoori,../static/57.jpg,Very much,BATTING ALROUNDER,7013695037
+58,Riyaz Ahmad Khawaja ,../static/58.jpg,Partial,BATTING ALROUNDER,7006013312
+59,MANAV AMARSING GEDAM,../static/59.jpg,Very much,BATTING ALROUNDER,8668771557
+60,CM Sunil Kumar,../static/60.jpg,Very much,BATTING ALROUNDER,7093178871
+61,Granth Shukla,../static/61.jpg,Very much,BATTING ALROUNDER,9521558366
+62,B.pabitra Mohan prusty,../static/62.jpg,Very much,BATTING ALROUNDER,7008450629
+63,Gaurav Sharma ,../static/63.jpg,Very much,BATTING ALROUNDER,7017709613
+64,Santhosh Mamidala ,../static/64.jpg,Very much,BATTING ALROUNDER,9849370062
+65,Junjar Singh,../static/65.jpg,Very much,BATTING ALROUNDER,8690949916
+66,Rahul Arya,../static/66.jpg,Very much,BATTING ALROUNDER,8498857961
+67,Kadavath Suresh,../static/67.jpg,Very much,BATTING ALROUNDER,7995305180
+68,Gaurav Gupta,../static/68.jpg,Very much,BATTING ALROUNDER,8318150609
+69,Shahgafoor Mir,../static/69.jpg,Very much,BATTING ALROUNDER,7006884506
+70,Rajat GAUTAM,../static/70.jpg,Very much,BATTING ALROUNDER,8279899789
+71,Murshid p,../static/71.jpg,Very much,BATTING ALROUNDER,7994286299
+72,Aadith.v,../static/72.jpg,Very much,BATTING ALROUNDER,8590515513
+73,Hatkar tharun ,../static/73.jpg,Very much,BATTING ALROUNDER,8179441237
+74,Syam babu,../static/74.jpg,Very much,BATTING ALROUNDER,6300996946
+75,SAYANDIP DOLUI,../static/75.jpg,Very much,BATTING ALROUNDER,9674459707
+76,Pratap kumar,../static/76.jpg,Very much,BATTING ALROUNDER,7992219971
+77,Imtiyaz Hussain ,../static/77.jpg,Very much,BATTING ALROUNDER,6005962355
+78,Bhaskar Ramavath,../static/78.jpg,Very much,BATTING ALROUNDER,9666053965
+79,Lavudi Bala Anjaneyulu ,../static/79.jpg,Very much,BATTING ALROUNDER,9177906856
+80,Pavan Kumar ,../static/80.jpg,Very much,BATTING ALROUNDER,8985319064
+81,Akhil,../static/81.jpg,Very much,BATTING ALROUNDER,7901059453
+82,Vishal Pandey,../static/82.jpg,Very much,BATTING ALROUNDER,6306262677
+83,CHETAN KUMAR,../static/83.jpg,Very much,BATTING ALROUNDER,7982765496
+84,Gangadhara Rao,../static/84.jpg,Very much,BATTING ALROUNDER,8555840485
+85,v santhosh kumarÚ,../static/85.jpg,https://drive.google.com/open?id=1GDDQ9Sl7gShhTHG9g_6KWnH6oMkuMS6i, 20SEED26,9493532915
+86,Sunder,../static/86.jpg,Very much,BATTING ALROUNDER,7013192152
+87,B SAMPATH KUMAR REDDY,../static/87.jpg,Very much,BATTING ALROUNDER,7799051594
+88,Narthu Hareesh ,../static/88.jpg,Very much,BATTING ALROUNDER,8332827525
+89,D S RAVINDER,../static/89.jpg,Very much,BATTING ALROUNDER,9948329402
+90,PRIYABRATA PATRA,../static/90.jpg,Very much,BATTING ALROUNDER,9090830503
+91,Venkat sai uppala,../static/91.jpg,Very much,BATTING ALROUNDER,8555009114
+92,Charan Ramtej kodi,../static/92.jpg,Very much,BATTING ALROUNDER,8500107950
+93,Vinay Kumar N,../static/93.jpg,Very much,BATTING ALROUNDER,9885503121
+94,Saurav Kumar,../static/94.jpg,Very much,BATTING ALROUNDER,7075537458
+95,Somdeep Dey,../static/95.jpg,Partial,BATTING ALROUNDER,7001495021
+96,Badal kumar,../static/96.jpg,Very much,BATTING ALROUNDER,8404936386
+97,MAHAMAD ALI BAIG,../static/97.jpg,23rd CONVOCATION on  1-10-2023. Not possible to play on that day + Partial,BATTING ALROUNDER,9492978303
+98,MOHAMMED SAMEER,../static/98.jpg,CONVOCATION on 1-10-2023. Not possible to play on this day,BATTING ALROUNDER,8919000841
+99,RAMAVATH NAVEEN,../static/99.jpg,Very much,BATTING ALROUNDER,9652375024
+100,Ashrafi Iqbal ,../static/100.jpg,Very much,BATTING ALROUNDER,7207585982
+101,Saurabh Kumar ,../static/101.jpg,Very much,BATTING ALROUNDER,9023909390
+102,M. Murali ,../static/102.jpg,Very much,BATTING ALROUNDER,9640710077
+103,Pranay Nagilla,../static/103.jpg,Very much,BATTING ALROUNDER,7569647715
+104,VISHVAS SURARAM,../static/104.jpg,Very much,BATTING ALROUNDER,9121794664
+105,Ram,../static/105.jpg,Very much,BATTING ALROUNDER,8074795203
+106,Rajendra meena,../static/106.jpg,Very much,BATTING ALROUNDER,9490652473
+107,Rahul Gond,../static/107.jpg,Very much,BATTING ALROUNDER,9441641630
+108,ARUNADOY NASKAR,../static/108.jpg,Very much,BATTING ALROUNDER,9748119456
+109,Akshay Uttam Urade ,../static/109.jpg,Very much,BATTING ALROUNDER,9322010848
+110,P mahesh babu ,../static/110.jpg,Very much,BATTING ALROUNDER,9652698903
+111,KARRI NAVEEN ,../static/111.jpg,Very much,BATTING ALROUNDER,8374596649
+112,Bupathi rupesh ,../static/112.jpg,Very much,BATTING ALROUNDER,8498988173
+113,Prankishor Ghosh ,../static/113.jpg,Partial,BATTING ALROUNDER,6289870976
+114,Shiva,../static/114.jpg,Very much,BATTING ALROUNDER,9100842900
+115,John Vinod ,../static/115.jpg,Very much,BATTING ALROUNDER,9490355807
+116,Mr karthik,../static/116.jpg,Very much,BATTING ALROUNDER,9908919505
+117,K.Arun kumar ,../static/117.jpg,Very much,BATTING ALROUNDER,7670937530
+118,PRUTHVI SUDDALA,../static/118.jpg,Very much,BATTING ALROUNDER,8333852958
+119,AZGHAR KHAN,../static/119.jpg,Very much,BATTING ALROUNDER,9963326786
+120,Hima viswa Jagadeesh ,../static/120.jpg,Partial,BATTING ALROUNDER,9581425629
+121,Bibek Mahali,../static/121.jpg,Very much,BATTING ALROUNDER,8617075641
+122,Mantu yadav,../static/122.jpg,Very much,BATTING ALROUNDER,6205525504
+123,ADLA ABHISHEK ,../static/123.jpg,Very much,BATTING ALROUNDER,6305042136
+124,Bilal Ahmad ganaie,../static/124.jpg,Very much,BATTING ALROUNDER,7006741315
+125,Dr. Sachin Bhanudas Ballal ,../static/125.jpg,Very much,BATTING ALROUNDER,9011093394
+126,N.Rajeev Reddy,../static/126.jpg,Very much,BATTING ALROUNDER,9550085763
+127,Ayngarasoruoban T,../static/127.jpg,Very much,BATTING ALROUNDER,7996626450
+128,RAMJIWAN bhil,../static/128.jpg,Very much,BATTING ALROUNDER,7389840348
+129,Rajesh M,../static/129.jpg,Very much,BATTING ALROUNDER,9908604070
+130,Ramnath kumar,../static/130.jpg,Very much,BATTING ALROUNDER,7013433546
+131,Sarath Chandra,../static/131.jpg,Very much,BATTING ALROUNDER,8919295657
+132,DHRUBA JYOTI RAY,../static/132.jpg,Very much,BATTING ALROUNDER,8638830019
+133,Praneeth Kumar,../static/133.jpg,Very much,BATTING ALROUNDER,9392460586
+134,M. Prabhu,../static/134.jpg,Very much,BATTING ALROUNDER,8978391495
+135,Sai Anshuman Rath ,../static/135.jpg,Very much,BATTING ALROUNDER,9692664887
+136,Vikas Kumar ,../static/136.jpg,Available only for the matches in the last week of September ,BATTING ALROUNDER,9014862196
+137,Venky(IVR) ,../static/137.jpg,Very much,BATTING ALROUNDER,8184823868
+138,N S S S KRISHNA CHAITANYA,../static/138.jpg,Very much,BATTING ALROUNDER,7075518584
+139,Ashutosh ,../static/139.jpg,Very much,BOWLER,8860883019
+140,Anjeneya Swami Kare,../static/140.jpg,Very much,BOWLER,9666315357
+141,Shivanu Sourabh,../static/141.jpg,Very much,BOWLER,7564009884
+142,B VENKATADRI ,../static/142.jpg,Very much,BOWLER,7989425220
+143,Y. Revanth kumar,../static/143.jpg,Very much,BOWLER,9989554847
+144,Vamshi Bachu,../static/144.jpg,Very much,BOWLER,8309245040
+145,Vidya Sagar k ,../static/145.jpg,Very much,BOWLER,7416270801
+146,MUHAMMED YASEEN V,../static/146.jpg,Very much,BOWLER,8301819741
+147,VAMSI NADH REDDY ,../static/147.jpg,Very much,BOWLER,8977250118
+148,VINAY V,../static/148.jpg,Very much,BOWLER,9505333939
+149,Sonajoke Milind Kumar ,../static/149.jpg,Partial,BOWLER,7013738307
+150,Chouhan Akash Naik,../static/150.jpg,Very much,BOWLER,8500025040
+151,Animesh Dhara ,../static/151.jpg,Very much,BOWLER,6296887093
+152,CHITHANYA RAVI,../static/152.jpg,Very much,BOWLER,9866212652
+153,Muripala Raju,../static/153.jpg,Very much,BOWLER,6304406147
+154,Saikumar ,../static/154.jpg,Very much,BOWLER,9985808280
+155, PHANI RAM,../static/155.jpg,Very much,BOWLER,9014068439
+156,K Ashok Kumar ,../static/156.jpg,Partial,BOWLER,9344776483
+157,Yash Ratnawat,../static/157.jpg,Very much,BOWLER,7697871459
+158,Ashish ranjan,../static/158.jpg,Partial,BOWLER,9431207942
+159,Daman Yadav,../static/159.jpg,Very much,BOWLER ,8005904796
+160,SAI KEERTHI ,../static/160.jpg,Very much,BOWLING ALROUNDER,8880277190
+161,Bollampalli saikumar,../static/161.jpg,Very much,BOWLING ALROUNDER,6305347072
+162,Lavudi Suresh,../static/162.jpg,Very much,BOWLING ALROUNDER,7674976712
+163,Keshav,../static/163.jpg,Very much,BOWLING ALROUNDER,9956159605
+164,LIKHITH KUMAR GODA ,../static/164.jpg,Very much,BOWLING ALROUNDER,9640033378
+165,AIMEN P L,../static/165.jpg,Very much,BOWLING ALROUNDER,8891199828
+166,Shubham Kumar Gupta ,../static/166.jpg,Very much,BOWLING ALROUNDER,7858072571
+167,Mohammad Khatibur Rahman,../static/167.jpg,Very much,BOWLING ALROUNDER,8802131286
+168,Adil ,../static/168.jpg,Very much,BOWLING ALROUNDER,8957100745
+169,Kagapu Giri Surya Prakash,../static/169.jpg,Very much,BOWLING ALROUNDER,6281276779
+170,Marri Nithin Kumar ,../static/170.jpg,Partial,BOWLING ALROUNDER,6305019256
+171,Manvender Toppo ,../static/171.jpg,Partial,BOWLING ALROUNDER,8092838066
+172,Lavuluri Liketh,../static/172.jpg,Partial,BOWLING ALROUNDER,9390695606
+173,md aarif,../static/173.jpg,Very much,BOWLING ALROUNDER,7292962879
+174,Dherange Mayur Prakash,../static/174.jpg,Very much,BOWLING ALROUNDER,8805044858
+175,Rajeev Rai ,../static/175.jpg,Very much,BOWLING ALROUNDER,7052319705
+176,Ghabit Nabi Bhat,../static/176.jpg,Very much,BOWLING ALROUNDER,6005881717
+177,Rishabh Sharma ,../static/177.jpg,Partial,BOWLING ALROUNDER,6267731448
+178,KOTI,../static/178.jpg,Very much,BOWLING ALROUNDER,7989364384
+179,Dev Raheja,../static/179.jpg,Very much,BOWLING ALROUNDER,9818344292
+180,Gourish Kumar Shukla ,../static/180.jpg,Very much,BOWLING ALROUNDER,9354848352
+181,T Manohar,../static/181.jpg,Very much,BOWLING ALROUNDER,8186889648
+182,Sandeep Singh ,../static/182.jpg,Very much,BOWLING ALROUNDER,9958555805
+183,G. Ramesh goud,../static/183.jpg,Partial,BOWLING ALROUNDER,6300903513
+184,Aadarsh vadlamudi ,../static/184.jpg,Very much,BOWLING ALROUNDER,9618831871
+185,Raghav,../static/185.jpg,Very much,BOWLING ALROUNDER,6305895144
+186,N Thippeswamy,../static/186.jpg,Very much,BOWLING ALROUNDER,8309823163
+187,Aparesh pal ,../static/187.jpg,Very much,BOWLING ALROUNDER,8967740344
+188,Kamal Kisore Upadhayaya ,../static/188.jpg,Partial,BOWLING ALROUNDER,7669676747
+189,DONTHULA NAVEEN,../static/189.jpg,Very much,BOWLING ALROUNDER,7036941904
+190,Prem Kumar ,../static/190.jpg,Partial,BOWLING ALROUNDER,9963358745
+191,Chouhan Kishore ,../static/191.jpg,Partial,BOWLING ALROUNDER,7780379266
+192,Naveen pal,../static/192.jpg,Very much,BOWLING ALROUNDER,6304112980
+193,Sunil Reddi ,../static/193.jpg,'Maximum I''ll try to be there',BOWLING ALROUNDER,8019740607
+194,Sandrapati Joseph Anand Paul,../static/194.jpg,Very much,BOWLING ALROUNDER,9381637076
+195,Amitesh Singh ,../static/195.jpg,Very much,BOWLING ALROUNDER,8545858478
+196,Ashish upadhyay,../static/196.jpg,Very much,BOWLING ALROUNDER,9169603383
+197,Vishwajeet Das ,../static/197.jpg,Very much,BOWLING ALROUNDER,7079436546
+198,JAMAL,../static/198.jpg,Very much,BOWLING ALROUNDER,7007840084
+199,K Hanumanprasad ,../static/199.jpg,Very much,BOWLING ALROUNDER,9494946816
+200,SUMAN KHETHAVATH ,../static/200.jpg,Very much,BOWLING ALROUNDER,9133008581
+201,Firoz Abbas ,../static/201.jpg,Very much,BOWLING ALROUNDER,8332979925
+202,S B CHARY,../static/202.jpg,Very much,Fielder,9492044397
+203,Prasanth Kumar ,../static/203.jpg,Very much,WICKET KEEPER,8143265871
+204,Amjad V,../static/204.jpg,Very much,WICKET KEEPER,8157876315
+205,Sri Krishna (Chintu),../static/205.jpg,Partial,WICKET KEEPER,9502533882
+206,Seraj khan,../static/206.jpg,Very much,WICKET KEEPER,9540960295
+207,Sunil Kumar R,../static/207.jpg,Very much,WICKET KEEPER,631539273
+208,Soumen Nayak,../static/208.jpg,Partial,WICKET KEEPER,8670752646
+209,Monachary Kammari,../static/209.jpg,Very much,WICKET KEEPER,9618367912
+210,Seraj khan,../static/210.jpg,Very much,WICKET KEEPER,9540960295
+211,Tridhatri Sontena,../static/211.jpg,Very much,WICKET KEEPER,7337337537
+212,RATHOD GANAPATHI ,../static/212.jpg,Very much,WICKET KEEPER,8008035925
+213,Justrus Mathew,../static/213.jpg,Very much,WICKET KEEPER,7593956781
+214,Ananthagiri Naveen ,../static/214.jpg,Maximum available if there is no classes and exams on that day.,Wicket keeper/ Batting allrounder ,9381299256
+215,Jayant Mahnot ,../static/215.jpg,Very much,wicketkeeper ,9079049004
+216,Sachi,../static/216.jpg,Very much,Batsman,9337930835
+217,Aakash Bati,../static/217.jpg,Very much,All Rounder,9557855447
+218,Sudeep,../static/218.jpg,Very much,BOWLER,9381300108
+219,Harshavardan,../static/219.jpg,Very much,Batsman,9553532258
